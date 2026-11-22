@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Please cite the manuscript when referring to the mathematical results."
+message: "Please cite the Zenodo preprint when referring to the mathematical results."
 title: "Minimum-cut bridges and unavoidable cycles in holographic graph entropies"
 authors:
   - family-names: Lin
@@ -10,3 +10,15 @@ version: "1.0.0"
 date-released: "2026-11-22"
 repository-code: "https://github.com/LeoLam233/holographic-entropy-bridges"
 url: "https://github.com/LeoLam233/holographic-entropy-bridges/releases/tag/v1.0.0"
+preferred-citation:
+  type: generic
+  title: "Minimum-cut bridges and unavoidable cycles in holographic graph entropies"
+  authors:
+    - family-names: Lin
+      given-names: Dehao
+  year: 2026
+  publisher:
+    name: Zenodo
+  doi: "10.5281/zenodo.24435200"
+  url: "https://zenodo.org/records/24435200"
+  notes: "Preprint, version 1.0.0"

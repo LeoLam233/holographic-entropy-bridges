@@ -50,9 +50,13 @@ with TeX Live. The figure is defined in the LaTeX source.
 
 ## Cite and reuse
 
-See [CITATION.cff](CITATION.cff) for citation metadata. The original manuscript
-and documentation use [CC BY 4.0](LICENSE-CONTENT.md). Original verification
-code uses the [MIT license](LICENSE).
+Lin, D. (2026). *Minimum-cut bridges and unavoidable cycles in holographic
+graph entropies* (Version 1.0.0) [Preprint]. Zenodo.
+[10.5281/zenodo.24435200](https://doi.org/10.5281/zenodo.24435200).
+
+GitHub's citation export uses [CITATION.cff](CITATION.cff). The original
+manuscript and documentation use [CC BY 4.0](LICENSE-CONTENT.md).
+Original verification code uses the [MIT license](LICENSE).
 
 The ray-110, ray-145 and ray-168 graph inputs reproduce data from
 [Austen M. Fletcher's deposit](https://doi.org/10.5281/zenodo.22020364).
