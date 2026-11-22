@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript when referring to the mathematical results."
+title: "Minimum-cut bridges and unavoidable cycles in holographic graph entropies"
+authors:
+  - family-names: Lin
+    given-names: Dehao
+    affiliation: "School of Physics, Sun Yat-sen University"
+    email: lindh9@mail2.sysu.edu.cn
+version: "1.0.0"
+date-released: "2026-11-22"
+repository-code: "https://github.com/LeoLam233/holographic-entropy-bridges"
+url: "https://github.com/LeoLam233/holographic-entropy-bridges/releases/tag/v1.0.0"
